@@ -1,0 +1,28 @@
+{
+  "name": "esqs",
+  "version": "0.0.0",
+  "description": "Easy SQS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevAlien/node-esqs"
+  },
+  "keywords": [
+    "sqs",
+    "aws",
+    "amazon",
+    "queue"
+  ],
+  "author": "Goncalo Margalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevAlien/node-esqs/issues"
+  },
+  "homepage": "https://github.com/DevAlien/node-esqs",
+  "dependencies": {
+    "aws4": "^1.0.1"
+  }
+}
